@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 //recursion tree is also attached for reference
 //what we are doing at every step is either that element at that index
-// or we don;t take that element
+// or we don't take that element
 //first we take find futher sequences and then remove it 
 //thing what if we have had never taken it and then
 //we do i+1 and add next element
